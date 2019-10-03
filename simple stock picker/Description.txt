@@ -1,0 +1,5 @@
+The idea here is to take pick a single stock.
+Check if it has risen in value 5 minutes after opening.
+If the stock has risen, has it then risen more at 11 am?
+
+Would it be profitable in the long run to use this as an approach for picking stocks?
